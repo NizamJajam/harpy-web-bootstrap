@@ -1,0 +1,82 @@
+body {
+    display: block;
+    overflow-x: hidden;
+}
+
+nav {
+    background-color: white;
+}
+
+.navbar-brand img {
+    max-height: 50px;
+}
+
+.navbar-brand {
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #683aa4;
+}
+
+nav ul li a {
+    color: #a9a9a9;
+    font-size: 22px;
+    margin: auto 10px;
+}
+
+nav ul li a:hover {
+    color: #683aa4;
+}
+
+.col-sm {
+    height: 200;
+    padding-top: 50;
+    padding: 20px;
+}
+
+.deliver-person {
+    background-color: #FFC86A;
+}
+
+.textContainer {
+    width: 79%;
+}
+.textContainer2 {
+    width: 79%;
+}
+
+.buttonContainer {
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    flex-direction: row;
+    text-align: center;
+}
+
+.custom-btn {
+    background-color: #FFAC18;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+span {
+    color: #FFC86A;
+}
+
+.container {
+    justify-content: center;
+    align-items: center;
+}
+.orangeBoxes{
+    text-align: center;
+    justify-content: center;
+    flex-direction: row;
+
+}
