@@ -39,10 +39,11 @@ nav ul li a:hover {
 }
 
 .textContainer {
-    width: 79%;
+    width: 100%;
+    overflow-x: auto;
 }
 .textContainer2 {
-    width: 79%;
+    width: 50%;
 }
 
 .buttonContainer {
